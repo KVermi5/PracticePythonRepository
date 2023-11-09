@@ -1,0 +1,8 @@
+print("    o  ")
+print("   / \\")
+print("  /   \\")
+print(" /     \\")
+print("~~~~~~~~~")
+print(" ( o o )")
+print("    _    ")
+print("  <>o<>   ")
